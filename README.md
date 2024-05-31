@@ -1,4 +1,4 @@
-# PowerBI exercises
+# Power BI exercises
 These PBI files are the results of the Udemy's course: ["Curso Power BI – Análisis de Datos y Business Intelligence"](https://www.udemy.com/share/101rEW3@LM2XD4P97wviJ_DajBhm_ZB3lj5E21_2kn72RemfCTgxwOe6X2QJBowc-CcclnvbNQ==/), by [datdata](https://www.udemy.com/user/datdata/).
 
 The course consists of 5 main projects, each one more complete or complex than the previous one. In this way, the course explains the vast majority of tools that are available in Power BI:
