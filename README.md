@@ -9,6 +9,6 @@ The course consists of 5 main projects, each one more complete or complex than t
 
 In this repository, I want to highlight the last 3 projects because they encapsulate most of the topics in the course. The last one is more focused on the DAX formulas, so the visuals are not well finished.
 
-1. Project 1: 
-2. Project 2: 
-3. Project 3: 
+1. [Project 1](https://github.com/matarauj/PowerBI_exercises/blob/f1d54cbc117d9aadb6263c0ac8533b70f9a26e95/Proyecto%204.pbix)
+2. [Project 2](https://github.com/matarauj/PowerBI_exercises/blob/f1d54cbc117d9aadb6263c0ac8533b70f9a26e95/Proyecto%203.pbix)
+3. [Project 3](https://drive.google.com/file/d/1yInWXvJ-kTzvLSoitaXRwY7RyojFBneX/view?usp=drive_link)
